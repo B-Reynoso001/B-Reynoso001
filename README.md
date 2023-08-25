@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B-Reynoso001
-- 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on anything related to Machine Learning
+- 👀 I’m interested in Python and Machine Learning, Javascript, HTML, CSS.
+- 🌱 I’m currently learning Javascript, HTML, CSS.
+- 💞️ I’m looking to collaborate on anything related to Machine Learning and Web Development.
 - 📫 How to reach me breyn001@gmail.com
 
 <!---
